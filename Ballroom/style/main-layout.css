@@ -1,0 +1,88 @@
+*{
+	margin: 0 auto;
+}
+body, td {
+	font-family: Arial;
+	font-size: 12px;
+	background: #CCC url(../images/stripe_b.png) repeat top;
+}
+a{
+	color:  #9E0000;
+}
+
+#submitForm {
+	background: #CCC url(../images/stripe_1.png) repeat-x top;
+	border: 1px outset #B60000;
+	color: #FFF;
+	text-align: center;
+	font-weight: bold;
+	padding: 7px 20px;
+}
+h1 {
+	text-align: left;
+	margin: 25px 15px;
+	padding: 5px;
+	font-size: 22px;
+	color: #B60000;
+	font-style:italic;
+	border-bottom: 1px solid #B60000;
+}
+
+input {
+	padding: 3px 2px;
+	font-size: 13px;
+	color: #9E0000;
+	font-weight: bold;
+	border: 1px solid #890000;
+	font-family: Arial;
+	text-align: left;
+}
+.title{
+	text-align: Right;
+	font-size: 28px;
+	color: #980000;
+	padding: 5px 15px;
+	font-weight: bold;
+	font-style:italic;
+}
+.unit {
+	padding: 20px 0; 
+	text-align: center;
+	color:  #9E0000;
+}
+.input_table td, .input_table {
+	text-align: left;
+	border: none;
+}
+.input_table td.a_right {
+	font-family: Arial;
+	font-size: 12px;
+	text-align: right;
+	font-weight: bold;
+	color: #555;
+}
+.maintable {
+	margin-top: 20px;
+	width: 1000px;
+	height: 500px;
+	border: 1px;
+}
+.maintable  td {
+	background: #FFFFFF url(../images/alb.png) repeat top;
+}
+.maintable  td{
+	border: 1px solid #CCC;
+}
+.maintable  td table td{
+	border: none;
+}
+
+
+
+
+
+
+
+
+
+
